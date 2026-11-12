@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1340 456" role="img" aria-labelledby="title desc">
+<title id="title">Moishy — Thoughtful tools for everyday work</title>
+<desc id="desc">An original dark teal software-builder banner with a subtle abstract product interface.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081720"/><stop offset=".56" stop-color="#102B32"/><stop offset="1" stop-color="#06151D"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#D6FFAA"/><stop offset="1" stop-color="#65E4D8"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#213A3F" stop-opacity=".98"/><stop offset="1" stop-color="#0D232C" stop-opacity=".98"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#42C9AA" stop-opacity=".24"/><stop offset="1" stop-color="#42C9AA" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="27" height="27" patternUnits="userSpaceOnUse"><path d="M27 0H0V27" fill="none" stroke="#B6D9C8" stroke-opacity=".08" stroke-width=".85"/></pattern>
+  <filter id="shadow" x="-25%" y="-35%" width="150%" height="170%"><feGaussianBlur stdDeviation="18"/></filter>
+  <clipPath id="clip"><rect x="0" y="0" width="1340" height="456" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1340" height="456" fill="url(#bg)"/>
+ <rect width="1340" height="456" fill="url(#grid)" opacity=".68"/>
+ <circle cx="1083" cy="170" r="365" fill="url(#halo)"/>
+ <path d="M-15 410 C250 320 410 475 720 360 S1120 340 1370 148" fill="none" stroke="#6FE3CE" stroke-width="1.1" stroke-opacity=".16"/>
+ <path d="M-30 437 C280 360 500 512 767 374 S1157 389 1370 194" fill="none" stroke="#B6F4BD" stroke-width="1.1" stroke-opacity=".11"/>
+ <rect x="46" y="43" width="37" height="37" rx="10" fill="#B7F2CB"/>
+ <path d="M55 69V54l9 10 10-10v15" fill="none" stroke="#0C252A" stroke-width="3.8" stroke-linejoin="round" stroke-linecap="round"/>
+ <text x="99" y="68" font-size="17" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="3" fill="#E9F9F2">MOISHY <tspan fill="#91B8AE" font-weight="500">/ BUILDER &amp; MAKER</tspan></text>
+ <rect x="47" y="109" width="59" height="4" rx="2" fill="url(#accent)"/>
+ <text x="45" y="184" font-size="69" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800" letter-spacing="-2.6" fill="#FAFFFD">Thoughtful tools.</text>
+ <text x="45" y="256" font-size="69" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800" letter-spacing="-2.6" fill="url(#accent)">Everyday impact.</text>
+ <text x="47" y="305" font-size="22" font-family="Inter, Segoe UI, Arial, sans-serif" fill="#B9CED0" letter-spacing=".2">Web experiences  ·  Browser tooling  ·  AI-powered workflows</text>
+ <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.2">
+  <rect x="47" y="349" width="165" height="39" rx="19.5" fill="#203A40" stroke="#3F6263"/><text x="72" y="374" fill="#D8F7E9">BUILD &amp; REFINE</text>
+  <rect x="226" y="349" width="160" height="39" rx="19.5" fill="#203A40" stroke="#3F6263"/><text x="252" y="374" fill="#D8F7E9">KEEP IT USEFUL</text>
+ </g>
+ <g transform="translate(879 66)">
+  <rect x="2" y="8" width="402" height="307" rx="23" fill="#03151B" fill-opacity=".65" filter="url(#shadow)"/>
+  <rect x="0" y="0" width="402" height="307" rx="23" fill="url(#panel)" stroke="#53756F" stroke-opacity=".58" stroke-width="1.4"/>
+  <path d="M0 52h402" stroke="#44635E" opacity=".6"/>
+  <circle cx="25" cy="26" r="5" fill="#78A49A"/><circle cx="44" cy="26" r="5" fill="#54877D"/><circle cx="63" cy="26" r="5" fill="#375E5C"/>
+  <text x="347" y="31" fill="#B7DDD0" font-family="monospace" font-size="13">WORKFLOW</text>
+  <text x="28" y="89" fill="#92B9B5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="2">FROM AN IDEA</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="650">
+    <rect x="25" y="106" width="352" height="47" rx="10" fill="#142E35" stroke="#375C5B"/><circle cx="48" cy="129" r="7" fill="#82F0CB"/><text x="67" y="135" fill="#EBF8F2">Notice the friction</text><text x="346" y="135" fill="#6CA196" font-size="14">01</text>
+    <path d="M49 153v22" stroke="#4B8C7B" stroke-width="2" stroke-dasharray="4 5"/>
+    <rect x="25" y="175" width="352" height="47" rx="10" fill="#142E35" stroke="#375C5B"/><circle cx="48" cy="198" r="7" fill="#A9EEB9"/><text x="67" y="204" fill="#EBF8F2">Build something better</text><text x="346" y="204" fill="#6CA196" font-size="14">02</text>
+    <path d="M49 222v17" stroke="#4B8C7B" stroke-width="2" stroke-dasharray="4 5"/>
+    <rect x="25" y="239" width="352" height="45" rx="10" fill="#D4F5B8"/><circle cx="48" cy="261" r="7" fill="#0C3B39"/><text x="67" y="268" fill="#0B3034">Make it feel simple</text><text x="346" y="268" fill="#386764" font-size="14">03</text>
+  </g>
+ </g>
+ <text x="1253" y="428" fill="#5A8584" font-family="monospace" font-size="15" letter-spacing="1">M / 01</text>
+</g></svg>
