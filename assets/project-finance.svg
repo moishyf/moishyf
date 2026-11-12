@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 255" role="img" aria-labelledby="title desc">
+<title id="title">FINANCE WORKSPACE — private project</title><desc id="desc">A clearer way to understand the numbers.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C1D25"/><stop offset=".6" stop-color="#102631"/><stop offset="1" stop-color="#0B1A25"/></linearGradient><radialGradient id="glow"><stop stop-color="#E6CB97" stop-opacity=".20"/><stop offset="1" stop-color="#E6CB97" stop-opacity="0"/></radialGradient><clipPath id="mask"><rect width="600" height="255" rx="17"/></clipPath></defs>
+<g clip-path="url(#mask)">
+<rect width="600" height="255" fill="url(#bg)"/>
+<circle cx="485" cy="102" r="184" fill="url(#glow)"/>
+<rect x="23" y="25" width="5" height="25" rx="2.5" fill="#E6CB97"/>
+<text x="43" y="42" fill="#E6CB97" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.55">FINANCIAL WORKFLOWS</text>
+<text x="23" y="95" fill="#F5FAF7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="31" font-weight="800">FINANCE WORKSPACE</text>
+<text x="24" y="125" fill="#B3CACE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15.2">A clearer way to understand the numbers.</text>
+<rect x="24" y="188" width="166" height="35" rx="17.5" fill="#263E45" stroke="#E6CB97" stroke-opacity=".45"/>
+<path d="M40 204v-5a5 5 0 0 1 10 0v5M40 204h10v9H40z" fill="none" stroke="#E6CB97" stroke-width="2" stroke-linejoin="round"/>
+<text x="60" y="211" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" letter-spacing=".9" fill="#E6F7F1">PRIVATE BUILD</text>
+<g transform="translate(350 43)">
+<rect width="215" height="168" rx="15" fill="#30352F" stroke="#7E846B"/>
+<rect x="15" y="17" width="185" height="42" rx="9" fill="#434A3D"/>
+<circle cx="38" cy="38" r="11" fill="#E6CB97"/>
+<path d="M38 30v16M33 34h8a4 4 0 0 1 0 8h-8" stroke="#374035" stroke-width="2" stroke-linecap="round" fill="none"/>
+<rect x="58" y="28" width="64" height="8" rx="4" fill="#B5C0A1"/>
+<rect x="58" y="43" width="41" height="5" rx="2.5" fill="#87927F"/>
+<rect x="15" y="70" width="185" height="82" rx="10" fill="#3F4C40"/>
+<path d="M31 131h154" stroke="#6D856F" stroke-width="1.5"/>
+<path d="M31 96h154M31 113h154" stroke="#6D856F" opacity=".4" stroke-dasharray="3 5"/>
+<rect x="37" y="113.94117647058823" width="9" height="17.058823529411764" rx="3" fill="#B8DCA8" opacity="0.74"/><rect x="53" y="106.88235294117646" width="9" height="24.11764705882353" rx="3" fill="#E6CB97" opacity="0.76"/><rect x="69" y="110.41176470588235" width="9" height="20.58823529411765" rx="3" fill="#B8DCA8" opacity="0.78"/><rect x="85" y="96.88235294117646" width="9" height="34.11764705882353" rx="3" fill="#E6CB97" opacity="0.8"/><rect x="101" y="89.8235294117647" width="9" height="41.1764705882353" rx="3" fill="#B8DCA8" opacity="0.82"/><rect x="117" y="102.76470588235294" width="9" height="28.235294117647058" rx="3" fill="#E6CB97" opacity="0.84"/><rect x="133" y="93.35294117647058" width="9" height="37.64705882352941" rx="3" fill="#B8DCA8" opacity="0.86"/><rect x="149" y="83.94117647058823" width="9" height="47.05882352941177" rx="3" fill="#E6CB97" opacity="0.88"/><rect x="165" y="94.52941176470588" width="9" height="36.470588235294116" rx="3" fill="#B8DCA8" opacity="0.9"/>
+</g>
+</g></svg>

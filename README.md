@@ -73,6 +73,31 @@ A curated selection of **public projects with source code you can explore**.
 
 ---
 
+## Private work · Public overview
+
+Not everything I build is open source. Some projects are developed privately, while their purpose and design thinking can still be shared. **The source code, documentation, and internal data for these projects are not public.**
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/project-ledaber.svg" width="100%" alt="Ledaber Kria — reading assessment platform, private source code" /><br />
+      <strong>Ledaber Kria · Reading Assessment</strong> <sub>(in development)</sub><br />
+      A private platform for structured reading assessments, learning support, and personalized practice workflows.<br />
+      <sub>Education technology · Product design · Workflow systems</sub><br />
+      <sub>🔒 Private repository — overview only</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/project-finance.svg" width="100%" alt="Finance Workspace — private financial web application" /><br />
+      <strong>Finance Workspace</strong> <sub>(in development)</sub><br />
+      A Hebrew-first financial web application exploring clearer records, organized insights, and practical everyday finance workflows.<br />
+      <sub>Web application · Data organization · Financial UX</sub><br />
+      <sub>🔒 Private repository — overview only</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Toolbox
 
 **Languages &amp; web** &nbsp; `JavaScript` `HTML` `CSS`  
